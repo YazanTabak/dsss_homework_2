@@ -43,8 +43,8 @@ def math_quiz():
     a math quiz
     the user get to solve a couple of random problem and gets his score at the end
     """
-    score = 0                                                                                           # the score of the user
-    TURNS = 3                                                                                           # how many problems to solve
+    score = 0   # the score of the user
+    TURNS = 3   # how many problems to solve
 
     print("Welcome to the Math Quiz Game!")
     print("You will be presented with math problems, and you need to provide the correct answers.")
